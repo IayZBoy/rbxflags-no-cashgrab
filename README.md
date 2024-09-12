@@ -1,12 +1,8 @@
 > [!NOTE]
 > If you find our repository useful don't forget to star!
-Forked from <a href="https://github.com/luafv/rbxflags/tree/master">luafv - rbxflags</a> to bring back previous fast flags that are now behind a paywall.
+Forked from [luafv - rbxflags](https://github.com/luafv/rbxflags/tree/master) to bring back previous fast flags that are now behind a paywall.
 
 <h4 align="center"><a href="https://github.com/luafv/rbxflags/tree/clean">clean version</a> ✧ <a href="https://github.com/luafv/rbxperf">performance list</a> </h4>
-
-<h3 align="center">
-  <img src="assets/newgens.gif" width="256" alt="NEWGENS...">
-</h3>
 
 <h1 align="center">rbxflags</h1>
 
