@@ -1,15 +1,13 @@
 > [!NOTE]
 > If you find our repository useful don't forget to star!
 
-<h4 align="center"><a href="https://github.com/luafv/rbxflags/tree/clean">clean version</a> ✧ <a href="https://discord.gg/HNe7fzR9xg">discord</a> ✧ <a href="https://github.com/luafv/rbxperf">performance list</a> </h4>
+<h4 align="center"><a href="https://github.com/luafv/rbxflags/tree/clean">clean version</a> ✧ <a href="https://github.com/luafv/rbxperf">performance list</a> </h4>
 
 <h3 align="center">
   <img src="assets/newgens.gif" width="256" alt="NEWGENS...">
 </h3>
 
 <h1 align="center">rbxflags</h1>
-
-<h4 align="center">Join our Discord Server for early access FastFlags before we publish</h4>
 
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
