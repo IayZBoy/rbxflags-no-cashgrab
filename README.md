@@ -1,5 +1,6 @@
 > [!NOTE]
 > If you find our repository useful don't forget to star!
+> Forked from <a href="https://github.com/luafv/rbxflags/tree/master">luafv - rbxflags</a> to bring back previous fast flags that are now behind a paywall.
 
 <h4 align="center"><a href="https://github.com/luafv/rbxflags/tree/clean">clean version</a> ✧ <a href="https://github.com/luafv/rbxperf">performance list</a> </h4>
 
@@ -17,12 +18,7 @@
 * **Updated Links**
 * **Game Specific Category**
 * **`???` `Send people to heaven` `Send people to hell V2` `Send people to hell V1` `Spin`**
-* **`Fix Reduced Motion Stuck` >> `Break Reduced Motion V4` This has been rolled out like a long time ago we forgot to remove it**
-- [x] Assign new maintainers
-- [x] Flag Cleanup 2 (We remove all patched FastFlags)
-- [x] Add extra FastFlags that we thought wouldn't be needed to be here
-- [x] Make everything we have public
-- [x] Have atleast 1 Working Fast Flag for Game Categories Section before we actually publish.
+* **`Fix Reduced Motion Stuck` >> `Break Reduced Motion V4`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
