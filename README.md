@@ -59,8 +59,6 @@
 * **[Debug](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file#debug)**
 * **[Links](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file#links)**
 
-<img src="assets/bitdancer.png" width="888"/>
-
 <h3 align="center">꧖ꦿꦸ</h3>
 
 <h1 align="center">Rendering API</h1>
