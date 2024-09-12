@@ -49,22 +49,22 @@
 3. **Include a Place ID after the semicolon. Examples: `True;4483381587`, `1;4483381587`.**
 4. **Your configuration is complete!**
 
-###### This is no method is no longer available on Bloxstrap because pizzaboxer a stupid Int Bool stupid ass check
+###### This is no method is no longer available on Bloxstrap because pizzaboxer a stupid Int Bool stupid ass check, It does work on the older bloxstrap versions (2.5.4 and under)
 
 # List Navigation
-* **[Rendering](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#rendering)**
-* **[Lightning Technologies](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file##lightning-technologies)**
-* **[Graphical](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
-* **[Quality of Life](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#quality-of-life)**
-* **[UI](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
-* **[UI X](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
-* **[Audio](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
-* **[Physics](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
-* **[Abusive Visuals](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
-* **[Abusive Game Presets](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#abusive-game-specific-presets)**
-* **[lol](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#lol)**
-* **[Debug](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#debug)**
-* **[Links](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#links)**
+* **[Rendering](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file#rendering)**
+* **[Lightning Technologies](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file##lightning-technologies)**
+* **[Graphical](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file#graphical-settings)**
+* **[Quality of Life](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file#quality-of-life)**
+* **[UI](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file#user-interfacevisuals)**
+* **[UI X](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
+* **[Audio](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file#audio-related)**
+* **[Physics](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file#physics-abusive)**
+* **[Abusive Visuals](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file#abusive-visuals)**
+* **[Abusive Game Presets](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file#abusive-game-specific-presets)**
+* **[lol](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file#lol)**
+* **[Debug](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file#debug)**
+* **[Links](https://github.com/IayZBoy/rbxflags-no-cashgrab/tree/master?tab=readme-ov-file#links)**
 
 <img src="assets/bitdancer.png" width="888"/>
 
